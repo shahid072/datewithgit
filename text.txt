@@ -1,11 +1,16 @@
-<<<<<<< HEAD
+
 hy i am shahid i am studing
-=======
+
 hy i am shahid
 
 hyy how are you
 hyy where are you
+<<<<<<< HEAD
 >>>>>>> feature
 
 hyy bro
+=======
+
+new text massge
+>>>>>>> feature
 
